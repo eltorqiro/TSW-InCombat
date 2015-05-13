@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?> 
+
+<Root>
+  <Value name="ElTorqiro_InCombat" value="true" />
+  <Value name="ElTorqiro_InCombat_Config" value="true" />
+  <Value name="ElTorqiro_InCombat_ShowConfig" value="false" />
+  <Archive name="ElTorqiro_InCombat_HUD_Data" />
+  <Archive name="ElTorqiro_InCombat_Config_Data" />
+</Root>
